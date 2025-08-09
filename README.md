@@ -6,7 +6,8 @@ It allows you to **Add**, **Update**, **Delete**, and **View** your daily expens
 ---
 
 ## 📸 Screenshot
-*(Add a screenshot of your app here)*
+<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/a69789b7-d36c-4928-aa9d-6622f26e5352" />
+
 
 ---
 
@@ -33,12 +34,6 @@ expense-tracker/
 ├── main.py # Main application file
 ├── README.md # Project documentation
 └── requirements.txt # List of dependencies
-
-yaml
-Copy
-Edit
-
-
 ---
 
 ## 📦 Installation
@@ -75,4 +70,5 @@ Add category dropdown with predefined options
 
 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
+
 
