@@ -172,7 +172,7 @@ def update_expense():
     collection.update_one({"_id": expense_id}, {"$set": new_data})
     fetch_expenses()
     clear_fields()
-    messagebox.showinfo("Success ✅", "Expense updated successfully! ✨")
+    messagebox.showinfo("Success ", "Expense updated successfully! ✨")
 
 def delete_expense():
     selected_item = tree.selection()
